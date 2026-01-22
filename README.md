@@ -8,9 +8,9 @@ My primary responsibility is ensuring that the numbers presented to leadership a
 In financial and operational environments, small data errors can cascade into large strategic mistakes.
 My work focuses on building and validating the analytical foundations that prevent this: reconciled metrics, clear lineage, consistent definitions, and audit-ready reporting.
 
-⸻
 
-What I Solve
+
+WHAT I SOLVE
 
 KPI Trust & Reconciliation
 	•	Validate executive-facing metrics against source systems and curated layers
@@ -30,9 +30,9 @@ Applied ML & NLP (When the Problem Requires It)
 	•	Use forecasting, anomaly detection, and NLP-based triage to augment traditional analytics
 	•	Frame models as decision-support systems with evaluation, monitoring, and governance — not isolated experiments
 
-⸻
 
-How I Work
+
+HOW I WORK
 
 My approach is shaped by production analytics in regulated, high-impact domains:
 	1.	Traceability over Assumption
@@ -44,9 +44,9 @@ KPIs are treated as contracts: fixed definitions, tested logic, and documented l
 	4.	Explainability for Leadership
 Variance and trend movement must be explainable in business terms, not only technical ones.
 
-⸻
 
-Flagship Systems (Work in Progress)
+
+FLAGSHIP SYSTEMS (WORK IN PROGRESS)
 
 This GitHub is structured as a public, reproducible version of the systems and workflows I use in practice:
 
@@ -68,9 +68,9 @@ Fact/dimension modeling, semantic layer design, and dbt-style testing for KPI co
 
 (Each repository includes business context, architecture, validation logic, and technical deep-dives.)
 
-⸻
 
-Tooling & Stack
+
+TOOLING & STACK
 
 Data Platforms: Snowflake, SQL Server
 Query & Analysis: Advanced SQL (windowing, reconciliation, variance analysis), Python (Pandas, NumPy, time-series, anomaly detection, NLP)
@@ -79,9 +79,9 @@ Analytics Engineering: Dimensional modeling, metric layers, data quality tests, 
 ML / NLP: Forecasting, classification, embeddings, topic modeling, model evaluation & monitoring
 Workflow & Governance: Azure DevOps, business rule documentation, audit-ready reporting standards
 
-⸻
 
-How to Navigate This GitHub
+
+HOW TO NAVIGATE THIS GITHUB
 
 For recruiters and hiring managers:
 Start with the Snowflake KPI Reconciliation Lab to see how I approach metric trust, validation, and executive-ready analytics.
